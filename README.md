@@ -1,6 +1,6 @@
 # koirala99.github.io
 
-[**ABOUT US**]([https://github.com/koirala99/koirala99.github.io/blob/main/about%20us](https://github.com/koirala99/koirala99.github.io/blob/main/about%20us.md))
+[**ABOUT US**](https://koirala99.github.io/about)
 This is an report on the evidence based data analytics done on the census data of Nepal 2021. THe insights generated are based on statisticl analysis and suitable visualizations. THe main motive of the [project management](https://www.toptal.com/project-managers/project-management-consultant/kanban-remote-teams) analysis is to understand the population demor=graphics, growth patterns and the overall population description of Nepal. 
 
 *Hello form the other side*
