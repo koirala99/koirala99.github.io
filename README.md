@@ -1,6 +1,6 @@
 # koirala99.github.io
 
-This is an report on the evidence based data analytics done on the census data of Nepal 2021. THe insights generated are based on statisticl analysis and suitable visualizations. THe main motive of the analysis is to understand the population demor=graphics, growth patterns and the overall population description of Nepal. 
+This is an report on the evidence based data analytics done on the census data of Nepal 2021. THe insights generated are based on statisticl analysis and suitable visualizations. THe main motive of the [project management](https://www.toptal.com/project-managers/project-management-consultant/kanban-remote-teams) analysis is to understand the population demor=graphics, growth patterns and the overall population description of Nepal. 
 
 *Hello form the other side*
 
@@ -11,3 +11,5 @@ This is an report on the evidence based data analytics done on the census data o
 Then we have this!!!
 
 ![alt text](https://github.com/koirala99/koirala99.github.io/blob/main/Types-of-Financial-Markets.jpg)
+
+
